@@ -1,4 +1,6 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Hi%20there!%20👋&fontSize=70)
+
+✨ Main Stack ✨
 
 <!--
 **ByeongDoo-Han/ByeongDoo-Han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+![ByeongDoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongDoo-Han&show_icons=true&theme=auto)
