@@ -25,20 +25,20 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-📚 Studying 📚
+<h3 align="center">📚 Studying 📚<h3>
 
 ![a](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=#4479A1)
 ![a](https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#4479A1)
 ![a](https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=#4479A1)
 
-🛠️ Tools 🛠️
+<h3 align="center">🛠️ Tools 🛠️<h3>
 
 ![a](https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=#4479A1)
 ![a](https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=#4479A1)
 ![a](https://img.shields.io/badge/intellij-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=#4479A1)
 ![a](https://img.shields.io/badge/eclipse-20232a.svg?style=for-the-badge&logo=eclipseide&logoColor=#4479A1)
 
-💡 Contact 💡
+<h3 align="center">💡 Contact 💡<h3>
 
 [![a](https://img.shields.io/badge/velog-20232a.svg?style=for-the-badge&logo=velog&logoColor=#4479A1)](https://velog.io/@quden04/posts)
 [![a](https://img.shields.io/badge/quden04@gmail.com-20232a.svg?style=for-the-badge&logo=gmail&logoColor=#4479A1)](https://mail.google.com/mail/?view=cm&fs=1&to=quden04@gmail.com)
