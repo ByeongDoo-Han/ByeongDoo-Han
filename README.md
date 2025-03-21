@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">📚 Studying 📚<h3>
 
+![a](https://img.shields.io/badge/kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=#4479A1)
 ![a](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=#4479A1)
 ![a](https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=#4479A1)
 ![a](https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=#4479A1)
